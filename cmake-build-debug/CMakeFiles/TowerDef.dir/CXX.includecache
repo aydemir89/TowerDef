@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ayber/TowerDef/main.cpp
+rlutil.h
+C:/Users/ayber/TowerDef/rlutil.h
+ctime
+-
+math.h
+C:/Users/ayber/TowerDef/math.h
+
+C:/Users/ayber/TowerDef/rlutil.h
+iostream
+-
+string
+-
+cstdio
+-
+stdio.h
+-
+string.h
+-
+windows.h
+-
+conio.h
+-
+termios.h
+-
+unistd.h
+-
+sys/ioctl.h
+-
+sys/types.h
+-
+sys/time.h
+-
+
